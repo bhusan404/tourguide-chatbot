@@ -1,0 +1,6 @@
+{
+    "user_id": "unique_user_id",
+    "user_input": "user's input text",
+    "timestamp": "timestamp_of_input",
+    "other_fields": "other_values"
+}
